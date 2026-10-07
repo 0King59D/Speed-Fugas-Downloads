@@ -1,7 +1,7 @@
 [
   {
     "nome": "DATAS GTA VISA",
-    "itens": [   { "nome": "Teste", "descricao": "Item de teste", "url": "https://discord.gg/thfJE9D924" }]
+    "itens": []
   },
   {
     "nome": "DATAS GTA SAMP",
@@ -12,6 +12,10 @@
       },
       {
         "nome": "ROTA",
+        "itens": []
+      },
+      {
+        "nome": "DRIFT",
         "itens": []
       },
       {
