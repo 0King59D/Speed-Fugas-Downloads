@@ -1,0 +1,48 @@
+[
+  {
+    "nome": "DATAS GTA VISA",
+    "itens": []
+  },
+  {
+    "nome": "DATAS GTA SAMP",
+    "subcategorias": [
+      {
+        "nome": "RP",
+        "itens": []
+      },
+      {
+        "nome": "ROTA",
+        "itens": []
+      },
+      {
+        "nome": "PG",
+        "itens": []
+      },
+      {
+        "nome": "PVP",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "nome": "MODS DO SERVER",
+    "subcategorias": [
+      {
+        "nome": "CLEO",
+        "itens": []
+      },
+      {
+        "nome": "MODLOADER",
+        "itens": []
+      },
+      {
+        "nome": "MOONLOADER",
+        "itens": []
+      },
+      {
+        "nome": "OUTROS",
+        "itens": []
+      }
+    ]
+  }
+]
