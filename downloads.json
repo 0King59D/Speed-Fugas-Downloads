@@ -46,7 +46,9 @@
       },
       {
         "nome": "MOONLOADER",
-        "itens": []
+        "itens": [
+          { "nome": "Contra Esterço V3", "descricao": "Mod Contra Esterço V3 Melhora a fisica para o drift de carros.", "url": "https://drive.google.com/file/d/1pxtJ6kIf8nvRdRb2Mnu0PprwU1LowKHJ/view?usp=sharing" }
+        ]
       },
       {
         "nome": "OUTROS",
