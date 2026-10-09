@@ -37,7 +37,7 @@
   },
     {
     "nome": "LOCALHOST",
-    "ip": "localhost:",
+    "ip": "localhost",
     "porta": 8989,
     "descricao": "Local Host Para Server Local Teste e etc.",
     "tags": ["LocalHost"],
