@@ -1,23 +1,30 @@
 {
-  "aviso": "Compras feitas pelo Discord do servidor. Após pagar, abra um ticket para receber seu item.",
+  "aviso": "Pague por Pix, envie o pedido + comprovante no Discord e o item é liberado na sua conta.",
+  "pix": {
+    "chave": "00020101021126580014br.gov.bcb.pix013605b49b3b-6d0b-42b9-99a7-929b36024f8452040000530398654045.005802BR5918ISAAC B R DA SILVA6009SAO PAULO62070503***63044DB9",
+    "nome": "Isaac Barbosa Rodovalho Da Silva"
+  },
+  "discord": "https://discord.gg/thfJE9D924",
   "itens": [
     {
-      "nome": "VIP Bronze",
-      "descricao": "Exemplo de item. Troque pelo seu produto.",
-      "preco": "R$ 10,00",
-      "categoria": "VIP",
+      "id": "dinheiro",
+      "qtd": 50000,
+      "nome": "R$ 50.000 no jogo",
+      "descricao": "Exemplo. O id \"dinheiro\" já vem pronto no gamemode.",
+      "preco": "R$ 5,00",
+      "categoria": "Dinheiro",
       "imagem": "",
-      "link": "https://discord.gg/thfJE9D924",
       "destaque": true,
       "esgotado": false
     },
     {
-      "nome": "Skin exclusiva",
-      "descricao": "Exemplo de item. Apague ou edite.",
-      "preco": "R$ 5,00",
-      "categoria": "Skins",
+      "id": "colete",
+      "qtd": 1,
+      "nome": "Colete",
+      "descricao": "Exemplo. O id \"colete\" já vem pronto no gamemode.",
+      "preco": "R$ 2,00",
+      "categoria": "Itens",
       "imagem": "",
-      "link": "https://discord.gg/thfJE9D924",
       "destaque": false,
       "esgotado": false
     }
