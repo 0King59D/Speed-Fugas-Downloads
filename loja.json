@@ -1,0 +1,25 @@
+{
+  "aviso": "Compras feitas pelo Discord do servidor. Após pagar, abra um ticket para receber seu item.",
+  "itens": [
+    {
+      "nome": "VIP Bronze",
+      "descricao": "Exemplo de item. Troque pelo seu produto.",
+      "preco": "R$ 10,00",
+      "categoria": "VIP",
+      "imagem": "",
+      "link": "https://discord.gg/thfJE9D924",
+      "destaque": true,
+      "esgotado": false
+    },
+    {
+      "nome": "Skin exclusiva",
+      "descricao": "Exemplo de item. Apague ou edite.",
+      "preco": "R$ 5,00",
+      "categoria": "Skins",
+      "imagem": "",
+      "link": "https://discord.gg/thfJE9D924",
+      "destaque": false,
+      "esgotado": false
+    }
+  ]
+}
