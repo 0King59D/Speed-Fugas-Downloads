@@ -22,5 +22,17 @@
     "banner": "",
     "discord": "",
     "site": "www.ugsamp.com"
+  },
+     {
+    "nome": "Horizonte Roleplay #4",
+    "ip": "ip4.horizonte-rp.com",
+    "porta": 7777,
+    "descricao": "Horizonte Roleplay construa sua história e seu personagem!.",
+    "tags": ["RP", "Brasil", "V1.8.2", "HZRP"],
+    "destaque": false,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": "www.horizonte-rp.com"
   }
 ]
