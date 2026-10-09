@@ -1,5 +1,5 @@
 [
-  {
+   {
     "nome": "Speed Fugas",
     "ip": "172.96.140.62",
     "porta": 8989,
@@ -23,7 +23,7 @@
     "discord": "",
     "site": "www.ugsamp.com"
   },
-     {
+    {
     "nome": "Horizonte Roleplay #4",
     "ip": "ip4.horizonte-rp.com",
     "porta": 7777,
@@ -34,5 +34,17 @@
     "banner": "",
     "discord": "",
     "site": "www.horizonte-rp.com"
+  }
+    {
+    "nome": "LOCALHOST",
+    "ip": "localhost:",
+    "porta": 8989,
+    "descricao": "Local Host Para Server Local Teste e etc.",
+    "tags": ["LocalHost"],
+    "destaque": true,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": ""
   }
 ]
