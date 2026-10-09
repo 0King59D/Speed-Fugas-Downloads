@@ -10,5 +10,17 @@
     "banner": "",
     "discord": "https://discord.gg/thfJE9D924",
     "site": ""
+  },
+    {
+    "nome": "Speed Fugas",
+    "ip": "ip.ugsamp.com",
+    "porta": 7777,
+    "descricao": "Undeground Roleplay construa sua história e seu personagem!.",
+    "tags": ["RP", "BR/PT", "V1.9.1", "R4"],
+    "destaque": false,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": "www.ugsamp.com"
   }
 ]
