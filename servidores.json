@@ -46,5 +46,17 @@
     "banner": "",
     "discord": "",
     "site": ""
+  },
+    {
+    "nome": "testes",
+    "ip": "179.236.238.198",
+    "porta": 10814,
+    "descricao": "teste.",
+    "tags": ["teste"],
+    "destaque": false,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": ""
   }
 ]
