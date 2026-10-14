@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "titulo": "Atualização 1.0.42",
+      "tag": "Atualização",
+      "data": "2026-10-14",
+      "texto": "Chegou a aba **Novidades** no launcher!",
+      "itens": [
+        "**Novo:** aba Novidades, atualizada em tempo real",
+        "**Novo:** controle de opacidade da foto de fundo",
+        "**Corrigido:** lista de servidores agora mostra o papel de parede"
+      ]
+    },
+    {
+      "titulo": "Evento no Discord",
+      "tag": "Evento",
+      "data": "2026-10-12",
+      "texto": "Sábado tem corrida de fuga valendo prêmio. Detalhes no nosso Discord.",
+      "link": "https://discord.gg/thfJE9D924",
+      "linkTexto": "Abrir Discord"
+    }
+  ]
+}
