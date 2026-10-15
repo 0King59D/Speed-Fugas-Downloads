@@ -71,6 +71,18 @@
     "discord": "",
     "site": "www.horizonte-rp.com"
   },
+            {
+    "nome": "[STT]Las Vegas",
+    "ip": "ip.horizonte-rp.com",
+    "porta": 7777,
+    "descricao": "STT Las Vegas!.",
+    "tags": ["STT", "MINIGAMES", "PVP"],
+    "destaque": false,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": ""
+  },
     {
     "nome": "LOCALHOST",
     "ip": "localhost",
