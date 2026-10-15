@@ -71,12 +71,24 @@
     "discord": "",
     "site": "www.horizonte-rp.com"
   },
-            {
+       {
     "nome": "[STT]Las Vegas",
     "ip": "ip.sttserver.net",
     "porta": 7777,
     "descricao": "STT Las Vegas!.",
     "tags": ["STT", "MINIGAMES", "PVP"],
+    "destaque": false,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": ""
+  },
+     {
+    "nome": "ARCADE PVP",
+    "ip": "144.217.62.159",
+    "porta": 7777,
+    "descricao": "ARCADE PVP.",
+    "tags": ["MINIGAMES", "PVP"],
     "destaque": false,
     "icone": "",
     "banner": "",
