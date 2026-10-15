@@ -6,18 +6,19 @@
       "data": "2026-10-14",
       "texto": "Chegou a aba **Novidades** no launcher!",
       "itens": [
-        "**Novo:** aba Novidades, atualizada em tempo real",
-        "**Alterado:** mostrar mais servidores agora mostra na tela"
+        "**Novo:** aba Novidades",
+        "**Alterado:** opção de mostrar mais servidores agora mostra uma tabela na tela"
       ]
     },
         {
       "titulo": "Atualização 1.0.41",
       "tag": "Atualização",
       "data": "2026-10-14",
-      "texto": "Chegou o sistema de **Temas** e **Papel de Parede** no launcher!",
+      "texto": "Chegou o sistema de **Temas** e **Foto de Fundo** no launcher!",
       "itens": [
+        "**Novo:** novo sistema de tema e foto de fundo",
+        "**Novo:** opções de cor de tema do launcher",
         "**Novo:** controle de opacidade da foto de fundo",
-        "**Corrigido:** lista de servidores agora mostra o papel de parede"
       ]
     },
     {
