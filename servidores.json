@@ -73,7 +73,7 @@
   },
             {
     "nome": "[STT]Las Vegas",
-    "ip": "ip.horizonte-rp.com",
+    "ip": "ip.sttserver.net",
     "porta": 7777,
     "descricao": "STT Las Vegas!.",
     "tags": ["STT", "MINIGAMES", "PVP"],
