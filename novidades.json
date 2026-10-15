@@ -7,6 +7,15 @@
       "texto": "Chegou a aba **Novidades** no launcher!",
       "itens": [
         "**Novo:** aba Novidades, atualizada em tempo real",
+        "**Alterado:** mostrar mais servidores agora mostra na tela",
+      ]
+    },
+        {
+      "titulo": "Atualização 1.0.41",
+      "tag": "Atualização",
+      "data": "2026-10-14",
+      "texto": "Chegou o sistema de **Temas** e **Papel de Parede** no launcher!",
+      "itens": [
         "**Novo:** controle de opacidade da foto de fundo",
         "**Corrigido:** lista de servidores agora mostra o papel de parede"
       ]
