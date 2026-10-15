@@ -35,6 +35,42 @@
     "discord": "",
     "site": "www.horizonte-rp.com"
   },
+        {
+    "nome": "Horizonte Roleplay #3",
+    "ip": "ip3.horizonte-rp.com",
+    "porta": 7777,
+    "descricao": "Horizonte Roleplay construa sua história e seu personagem!.",
+    "tags": ["RP", "Brasil", "V1.8.2", "HZRP"],
+    "destaque": false,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": "www.horizonte-rp.com"
+  },
+        {
+    "nome": "Horizonte Roleplay #2",
+    "ip": "ip2.horizonte-rp.com",
+    "porta": 7777,
+    "descricao": "Horizonte Roleplay construa sua história e seu personagem!.",
+    "tags": ["RP", "Brasil", "V1.8.2", "HZRP"],
+    "destaque": false,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": "www.horizonte-rp.com"
+  },
+        {
+    "nome": "Horizonte Roleplay #1",
+    "ip": "ip.horizonte-rp.com",
+    "porta": 7777,
+    "descricao": "Horizonte Roleplay construa sua história e seu personagem!.",
+    "tags": ["RP", "Brasil", "V1.8.2", "HZRP"],
+    "destaque": false,
+    "icone": "",
+    "banner": "",
+    "discord": "",
+    "site": "www.horizonte-rp.com"
+  },
     {
     "nome": "LOCALHOST",
     "ip": "localhost",
