@@ -1,16 +1,105 @@
 {
   "posts": [
     {
+      "titulo": "SUPER ATUALIZAÇÃO 1.0.60",
+      "tag": "Atualização",
+      "data": "2026-10-19",
+      "texto": "Pulamos direto para a **1.0.60** e ela vem **cheia**! Aqui está tudo que mudou desde a 1.0.42:",
+      "itens": [
+        "**Novo:** Discord Rich Presence, seus amigos veem no Discord que você está na Speed Fugas, com jogadores online e botão para entrar",
+        "**Novo:** a presença aparece assim que você abre o launcher e vira \"Jogando Speed Fugas\" quando o jogo abre",
+        "**Novo:** botão Testar conexão com o Discord em Configurações > Jogo, com diagnóstico completo do que está errado (só aparece quando a presença está ligada)",
+        "**Novo:** um nick diferente para cada servidor, veja e remova os nicks salvos em Configurações",
+        "**Novo:** Modo várias datas, cada servidor pode ter as suas próprias datas de GTA, com nome personalizado, e você escolhe qual fica EM USO",
+        "**Novo:** botão de data também nos detalhes de cada servidor",
+        "**Novo:** animação ao trocar de data, a nova acende com uma faixa de luz e a etiqueta EM USO pula para ela",
+        "**Novo:** tutorial passo a passo na primeira abertura e a cada atualização, com dicas do Modo várias datas, Downloads, Perfil, Novidades e mais (dá para pular ou rever em Configurações > Geral > Rever tutorial)",
+        "**Novo:** launcher todo animado, entrada suave da tela inicial, partículas no fundo, barrinha de cor que desliza entre as abas, ondinha ao clicar nos botões e luz que acompanha o mouse nos cartões",
+        "**Novo:** janelas que entram e saem suave, telas de servidores com lista em cascata e tela de fechando igual à de carregando",
+        "**Novo:** feedback visual ao copiar, mudar um valor ou errar algo, além de vários micro-detalhes pela interface",
+        "**Corrigido:** ajustes e melhorias no Discord, na aba Datas e em pequenos detalhes visuais"
+      ]
+    },
+    {
+      "titulo": "Atualização 1.0.60",
+      "tag": "Atualização",
+      "data": "2026-10-19",
+      "texto": "Animação ao trocar de data.",
+      "itens": [
+        "**Novo:** ao clicar em Selecionar, a data nova acende com uma faixa de luz e a etiqueta EM USO pula para ela, enquanto a antiga se apaga"
+      ]
+    },
+    {
+      "titulo": "Atualização 1.0.59",
+      "tag": "Atualização",
+      "data": "2026-10-19",
+      "texto": "Ajustes no Discord.",
+      "itens": [
+        "O teste de conexão com o Discord só aparece quando Mostrar minha atividade no Discord está ligado",
+        "Diagnóstico do Discord mais completo"
+      ]
+    },
+    {
+      "titulo": "Atualização 1.0.58",
+      "tag": "Atualização",
+      "data": "2026-10-19",
+      "texto": "O tutorial agora ensina o Modo várias datas.",
+      "itens": [
+        "**Novo:** dicas no tutorial sobre o Modo várias datas (como ligar, adicionar, nomear e escolher a data de cada servidor)"
+      ]
+    },
+    {
+      "titulo": "Atualização 1.0.57",
+      "tag": "Atualização",
+      "data": "2026-10-19",
+      "texto": "Discord Rich Presence mais confiável.",
+      "itens": [
+        "**Novo:** a presença aparece no Discord assim que você abre o launcher",
+        "Botão Testar conexão com o Discord em Configurações > Jogo, que mostra o que está errado"
+      ]
+    },
+    {
+      "titulo": "Atualização 1.0.56",
+      "tag": "Atualização",
+      "data": "2026-10-19",
+      "texto": "O launcher agora te recebe com um tutorial!",
+      "itens": [
+        "**Novo:** tutorial com dicas passo a passo na primeira abertura e a cada atualização",
+        "Dá para pular, ou rever em Configurações > Geral > Rever tutorial"
+      ]
+    },
+    {
+      "titulo": "Atualização 1.0.44",
+      "tag": "Atualização",
+      "data": "2026-10-15",
+      "texto": "Joga em mais de um servidor? Agora cada um tem o seu nick!",
+      "itens": [
+        "**Novo:** o launcher lembra um nick diferente para cada servidor",
+        "Veja e remova os nicks salvos em Configurações"
+      ]
+    },
+    {
+      "titulo": "Atualização 1.0.43",
+      "tag": "Atualização",
+      "data": "2026-10-15",
+      "texto": "Agora seus amigos veem no Discord que você está na Speed Fugas!",
+      "itens": [
+        "**Novo:** Discord Rich Presence, mostra \"Jogando Speed Fugas · 3/50 online\" no seu perfil",
+        "Dá para desligar em Configurações"
+      ]
+    },
+    {
       "titulo": "Atualização 1.0.42",
       "tag": "Atualização",
       "data": "2026-10-14",
       "texto": "Chegou a aba **Novidades** no launcher!",
       "itens": [
-        "**Novo:** aba Novidades",
-        "**Alterado:** opção de mostrar mais servidores agora mostra uma tabela na tela"
+        "**Novo:** aba Novidades, atualizada em tempo real",
+        "**Novo:** controle de opacidade da foto de fundo",
+        "**Corrigido:** lista de servidores agora mostra o papel de parede"
       ]
     },
-        {
+   {
       "titulo": "Atualização 1.0.41",
       "tag": "Atualização",
       "data": "2026-10-14",
@@ -26,9 +115,8 @@
       "tag": "Evento",
       "data": "2026-10-12",
       "texto": "Sábado tem corrida de fuga valendo prêmio. Detalhes no nosso Discord.",
-      "imagem": "https://www.image2url.com/r2/default/images/1792009826632-e5fe15a0-2c6e-40e6-97a8-452c44affe6c.jpg",
+      "imagem": "",
       "link": "https://discord.gg/thfJE9D924",
       "linkTexto": "Abrir Discord"
     }
   ]
-}
