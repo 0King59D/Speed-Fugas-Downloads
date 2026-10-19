@@ -21,15 +21,6 @@
       ]
     },
     {
-      "titulo": "Atualização 1.0.60",
-      "tag": "Atualização",
-      "data": "2026-10-19",
-      "texto": "Animação ao trocar de data.",
-      "itens": [
-        "**Novo:** ao clicar em Selecionar, a data nova acende com uma faixa de luz e a etiqueta EM USO pula para ela, enquanto a antiga se apaga"
-      ]
-    },
-    {
       "titulo": "Atualização 1.0.59",
       "tag": "Atualização",
       "data": "2026-10-19",
